@@ -1,4 +1,25 @@
-## Welcome to GitHub Pages
+<h1>Work In Progress</h1>
+
+This project is a work in progress. 
+
+<h2> Outline of Steps </h2>
+<ul>
+  <li> Review Git hub rules- how to push, pull etc </li>
+  <li> Find data online, document source </li>
+  <li> Clean up / format and identify issues in data </li>
+  <li> Use Python to do the data cleansing and formating </li>
+  <li> Use Python or R to do the analysis - create baselines and compare issues </li>
+  <li> Do analysis on the data </li>
+  <li> Depending on data available, create a dashboard on tableau to embed </li>
+  <li> Write about findings </li>
+  <li> Update HTML and format of Pages </li>
+  </ul>
+
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  
+  ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KristinNLynch/WorkinProgress/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
