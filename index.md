@@ -6,9 +6,10 @@ This project is a work in progress. It will show methods for measuring and analy
 <ol>
   <li> Review Git hub and git</li>
   <li> Find data online, document source </li>
-    <p>I used Kaggle to try to find a data source of POS data that would work for this project. There were various data sources that had sales transactions, but I couldn't find one that had everything I needed. I wanted a csv file that would be over 100K in records, so I downloaded from this source, then added additional fields and generated random data to fill them. I did some clean up and analysis in excel to make sure that it could work for this analysis. </p>
+    <p>I used Kaggle to try to find a data source of POS data that would work for this project. There were various data sources that had sales transactions, but I couldn't find one that had everything I needed.  </p>
   --Link to the data source--
   <li> Clean up / format and identify issues in data </li>
+ <p> I wanted a csv file that would be over 100K in records, so I downloaded from this source, then added additional fields and generated random data to fill them. I did some clean up and analysis in excel to make sure that it could work for this analysis. </p>
   <li> Use Python to do the data cleansing and formating </li>
   <li> Use Python or R to do the analysis - create baselines and compare issues </li>
   <li> Do analysis on the data </li>
