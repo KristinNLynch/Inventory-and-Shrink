@@ -1,11 +1,13 @@
 <h1>Work In Progress</h1>
 
-This project is a work in progress. 
+This project is a work in progress. It will show methods for measuring and analyzing inventory loss. 
 
 <h2> Outline of Steps </h2>
 <ul>
-  <li> Review Git hub rules- how to push, pull etc </li>
+  <li> Review Git hub and git</li>
   <li> Find data online, document source </li>
+    I used Kaggle to try to find a data source of POS data that would work for this project. There were various data sources that had sales transactions, but I couldn't find one that had everything I needed. I wanted a csv file that would be over 100K in records, so I downloaded from this source, then added additional fields and generated random data to fill them. I did some clean up and analysis in excel to make sure that it could work for this analysis. 
+  --Link to the data source--
   <li> Clean up / format and identify issues in data </li>
   <li> Use Python to do the data cleansing and formating </li>
   <li> Use Python or R to do the analysis - create baselines and compare issues </li>
@@ -25,29 +27,6 @@ You can use the [editor on GitHub](https://github.com/KristinNLynch/WorkinProgre
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
