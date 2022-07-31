@@ -3,10 +3,10 @@
 This project is a work in progress. It will show methods for measuring and analyzing inventory loss. 
 
 <h2> Outline of Steps </h2>
-<ul>
+<ol>
   <li> Review Git hub and git</li>
   <li> Find data online, document source </li>
-    I used Kaggle to try to find a data source of POS data that would work for this project. There were various data sources that had sales transactions, but I couldn't find one that had everything I needed. I wanted a csv file that would be over 100K in records, so I downloaded from this source, then added additional fields and generated random data to fill them. I did some clean up and analysis in excel to make sure that it could work for this analysis. 
+    <p>I used Kaggle to try to find a data source of POS data that would work for this project. There were various data sources that had sales transactions, but I couldn't find one that had everything I needed. I wanted a csv file that would be over 100K in records, so I downloaded from this source, then added additional fields and generated random data to fill them. I did some clean up and analysis in excel to make sure that it could work for this analysis. </p>
   --Link to the data source--
   <li> Clean up / format and identify issues in data </li>
   <li> Use Python to do the data cleansing and formating </li>
@@ -15,7 +15,7 @@ This project is a work in progress. It will show methods for measuring and analy
   <li> Depending on data available, create a dashboard on tableau to embed </li>
   <li> Write about findings </li>
   <li> Update HTML and format of Pages </li>
-  </ul>
+  </ol>
 
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
