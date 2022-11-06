@@ -1,0 +1,31 @@
+Customer Number,Store number,Type,PBS,Group,DM,BU,State,Division
+1,1253,Retail,Yes,11,DM_1,412,NJ,North
+2,1666,Retail,Yes,11,DM_1,422,NY,North
+3,2065,Retail,Yes,11,DM_1,422,TX,South
+4,2116,Retail,Yes,11,DM_1,412,CA,South
+5,2547,Retail,Yes,11,DM_1,433,PA,East
+6,3071,Retail,Yes,11,DM_2,457,OH,East
+7,3624,Retail,Yes,11,DM_2,457,VA,West
+8,3686,Retail,Yes,10,DM_2,412,NJ,West
+9,3719,Retail,Yes,10,DM_3,422,NY,North
+10,3874,Warehouse,Yes,11,DM_4,422,TX,North
+11,4736,Warehouse,Yes,11,DM_1,412,CA,South
+12,4776,Warehouse,Yes,11,DM_1,433,PA,South
+13,4921,Warehouse,Yes,11,DM_1,457,OH,East
+14,5010,Warehouse,No,11,DM_2,457,VA,East
+15,5058,Warehouse,No,11,DM_2,412,NJ,West
+16,5541,Do not service,No,11,DM_2,422,NY,West
+17,5599,Do not service,No,11,DM_3,422,TX,North
+18,5780,Do not service,No,11,DM_4,412,CA,North
+19,592,Retail,No,11,DM_1,433,PA,South
+20,6044,Retail,No,11,DM_1,457,OH,South
+21,6294,Retail,No,11,DM_1,457,VA,East
+22,6450,Retail,No,11,DM_2,412,NJ,East
+23,6459,Retail,No,11,DM_2,422,NY,West
+24,6865,Retail,No,11,DM_2,422,TX,West
+25,7548,Retail,No,11,DM_3,412,CA,North
+26,822,Retail,No,11,DM_4,433,PA,North
+27,8303,Retail,No,11,DM_1,457,OH,South
+28,8566,Warehouse,No,11,DM_1,457,VA,South
+29,9200,Warehouse,,10,DM_1,412,NJ,East
+30,9223,Warehouse,,10,DM_2,422,NY,East
