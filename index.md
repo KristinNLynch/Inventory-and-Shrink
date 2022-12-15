@@ -1,6 +1,7 @@
-<h1>Work In Progress</h1>
+<h1>Inventory and Shrink</h1>
 
-This project is a work in progress. It will show methods for measuring and analyzing inventory loss. 
+This project show methods for measuring and analyzing inventory loss. This page is still a work in progress while I work on the write up for the project. 
+
 
 <h2> Outline of Steps </h2>
 <ol>
