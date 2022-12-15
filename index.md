@@ -1,6 +1,6 @@
 <h1>Inventory and Shrink</h1>
 
-This project show methods for measuring and analyzing inventory loss. This page is still a work in progress while I work on the write up for the project. 
+This project show methods for measuring and analyzing inventory loss. This page is still a work in progress while I work on the write up for the project. The python notebook is complete and contains notes on all the steps used.
 
 
 <h2> Outline of Steps </h2>
